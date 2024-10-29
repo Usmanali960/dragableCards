@@ -1,3 +1,4 @@
+"use client"
 function background() {
     return (
         <div className="bg-zinc-800 h-screen w-full">
